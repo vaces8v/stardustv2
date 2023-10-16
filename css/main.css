@@ -214,5 +214,5 @@ height: 50%;
 
 .filter__link:hover {
 	letter-spacing: 10px;
-	transform: translate( -40px, 0);
+	transform: translate(-40px, 0);
 }
